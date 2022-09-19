@@ -1,0 +1,1 @@
+print("Vega fuma meta")
