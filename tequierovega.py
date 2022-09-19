@@ -1,1 +1,0 @@
-print("Vega fuma meta")
