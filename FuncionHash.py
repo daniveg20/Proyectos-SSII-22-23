@@ -6,3 +6,8 @@ hashmd5.update(stexto.encode())
 print (hashmd5.hexdigest())
 
 
+
+
+
+
+
