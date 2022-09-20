@@ -1,11 +1,17 @@
 import hashlib
-
-hashmd5 = hashlib.sha256()    
-stexto="hola Altaruru, hoy es lunes 1 de Octubre de 2018"
-hashmd5.update(stexto.encode())
-print (hashmd5.hexdigest())
-
-
+def getmd5file(archivo):
+    try:
+        hashmd5 = hashlib.md5()
+        with open(archivo, "rb") as f:
+            for bloque in iter(lambda: f.read(4096), b""):
+                hashmd5.update(bloque)
+        return hashmd5.hexdigest()
+    except Exception as e:
+        print("Error: %s" % (e))
+        return ""
+    except:
+        print("Error desconocido")
+        return ""
 
 
 
