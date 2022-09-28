@@ -1,0 +1,8 @@
+Día 28 a las 20:18:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:18:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:18:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:18:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:19:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:19:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:19:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
+Día 28 a las 20:19:  FALLO - El/Los archivo/s ['new.csv'] ha/n sido modificado/s
