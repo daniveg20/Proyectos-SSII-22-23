@@ -1,3 +1,3 @@
 @echo off
-START /B python deteccion.py 
-python Procesos.py
+START /B python deteccion.py
+python procesos.py
