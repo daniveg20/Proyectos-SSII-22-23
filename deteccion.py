@@ -108,7 +108,7 @@ while(True):
          
         despues = "./log/" + str(datetime.now().strftime('%Y_%m'))
         if despues != archivo:
-            file = open(archivo + ".txt", "a")
+            file = open(archivo + ".txt", "r")
             cont = 0
             for line in file: 
                 line = line.strip() 
