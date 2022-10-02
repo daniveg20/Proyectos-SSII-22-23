@@ -2622,3 +2622,28 @@ Día 02 a las 14:16:  ACIERTO - El arhivo no ha sido alterado
 Día 02 a las 14:18:  ACIERTO - El arhivo no ha sido alterado
 Día 02 a las 14:18:  ACIERTO - El arhivo no ha sido alterado
 Día 02 a las 14:19:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:22:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:22:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:23:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:23:  FALLO - El/Los archivo/s ['t.docx', 't.docx', 't.docx', 't.docx'] ha/n sido modificado/s
+Día 02 a las 14:23:  FALLO - El/Los archivo/s ['t.docx', 't.docx', 't.docx', 't.docx'] ha/n sido modificado/s
+Día 02 a las 14:23:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:23:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:23:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:24:  FALLO - El/Los archivo/s ['t.docx'] ha/n sido modificado/s
+Día 02 a las 14:24:  FALLO - El/Los archivo/s ['t.docx'] ha/n sido modificado/s
+Día 02 a las 14:24:  FALLO - El/Los archivo/s ['t.docx'] ha/n sido modificado/s
+Día 02 a las 14:24:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
+Día 02 a las 14:25:  ACIERTO - El arhivo no ha sido alterado
